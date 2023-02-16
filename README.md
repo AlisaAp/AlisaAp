@@ -1,4 +1,4 @@
-### Hi there 👋 My hame is Alisa
+### Hi there 👋 My name is Alisa
 
 <!--
 **AlisaAp/AlisaAp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
